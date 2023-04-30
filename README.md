@@ -13,6 +13,7 @@ As of the algorithm, its two functions will sort the stacks better than the Radi
 For 100 numbers stacks, the highest roll possible is below 700 instructions for 10.000 tests :
 
 ![image](https://user-images.githubusercontent.com/117649637/235379051-91a350d6-c269-4d6f-80c3-47cd4d35ba9b.png)
+
 Here : Best = 515 ||| Worst = 675 ||| Average = 590 ||| Standard Deviation = 18.6
 
 For 500 numbers stacks, the highest roll possible is below 5500 instructions for 10.000 tests :
