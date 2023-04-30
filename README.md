@@ -4,7 +4,7 @@ Push_swap 42 : 100/100 Algo with only two functions.
 ![fzefezf](https://user-images.githubusercontent.com/117649637/235378646-c1aa83ee-08ca-4950-9d61-f727d40c2ba0.jpg)
 ![fezfzef](https://user-images.githubusercontent.com/117649637/235378654-43ca22ab-c20d-4641-a4c9-783ee162ad30.jpg)
 
-This algorithm uses linked-chains - extremely helpfull tool.
+This algorithm uses linked-chains - an extremely helpful tool ! Check out the Garbage Collector.
 
 This project can be a very nice tutorial to learn how to use them.
 
